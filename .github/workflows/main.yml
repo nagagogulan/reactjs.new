@@ -33,4 +33,4 @@ jobs:
       with:
         context: ./dockerfolder # Adjust the path to your Dockerfile and application code
         push: true
-        tags: 529560895848.dkr.ecr.us-east-1.amazonaws.com/demo-repo/:latest
+        tags: 529560895848.dkr.ecr.us-east-1.amazonaws.com/demo-repo:latest
